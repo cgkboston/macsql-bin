@@ -1,4 +1,1 @@
-#!/bin/tcsh
-cd $MACSQL_HOME/db/tables
-ls
-exit 0
+
